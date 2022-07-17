@@ -1,0 +1,4 @@
+export const TOGGLE_VISIBILITY = "TOGGLE_VISIBILITY"
+export const SET_VISIBLE = "SET_VISIBLE"
+export const ADD_USER = "ADD_USER"
+export const CHANGE_COLOR = "CHANGE_COLOR"
